@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+.wrapper{
+	width: 600px;
+	height: 200px;
+	margin: 0 auto;
+	background-color: yellow;
+}
+.header{
+	width: 400px;
+	height: 100px;
+	margin: 4px;
+	background-color: red;
+
+}
+.nav{
+	width: 100px;
+	height: 200px;
+	border: 1px;
+	margin: 0 auto;
+	background-color: blue;
+}
